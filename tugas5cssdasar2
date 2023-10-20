@@ -1,0 +1,276 @@
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset='utf-8'>
+    <title>Museum Tsunami Aceh</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src="https://kit.fontawesome.com/79fa34a98c.js" crossorigin="anonymous"></script>
+</head>
+<style>
+
+
+img {width: 75%; height: auto; image-resolution: 100%; margin-left: 180px ;
+    }
+
+body {
+background-color: #c9def2;
+background-repeat: no-repeat;
+background-size: cover;}
+
+h1 {font-family: 'courir new';
+text-align: center;
+font-size: 30px;
+text-shadow: 2px 6px 8px #2b2b2b;}
+
+h2 {font-family: "monaco", monospace;
+text-align: center;
+font-size: 25px;
+width: 1200px;
+margin: auto;
+border-style: double;
+border-width: 5px;
+border-color:rgb(119, 119, 94)}
+
+
+h3 {font-family: "monaco", monospace;
+font-size: 20px;
+padding: 10px;
+width: 1000px;
+margin: auto;
+text-decoration: underline;}
+
+p {font-family: "monaco", monospace;
+font-size: 18px;
+text-align: justify;
+padding: 10px;
+width: 900px;
+margin: auto;}
+
+div {font-family: "monaco", monospace;
+    font-size: 18px;
+    text-align: justify;
+    padding: 10px;
+    width: 1200px;
+    margin: auto;
+    background-color: #cacdc3;
+    width: 1100px;
+    border: 8px solid #f0c794;
+    padding: 40px;
+    margin: auto;}
+
+ol {font-family: "monaco", monospace;
+    font-size: 18px;
+    text-align: justify;}
+
+ul {font-family: "monaco", monospace;
+    font-size: 18px;
+    text-align: justify;
+    width: 900px;
+    margin: auto;
+    padding: 30px;
+    list-style-type: circle;}
+
+
+    #Daftar  {font-family: monospace;
+        border-collapse: collapse;
+        width: 1100px;
+        margin:auto;
+        padding: 30px;}
+      
+    #Daftar td, #Daftar th {
+        border: 3px solid #161616;
+        padding: 8px; 
+        font-size: 18px;}
+      
+#Daftar tr:nth-child(even){background-color: #cfdfc4;}
+      
+#Daftar tr:nth-child(odd) {background-color: #d0d6aa;}
+      
+#Daftar th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        background-color: #bfc99e;
+        color: rgb(6, 5, 5);
+    text-align: center;}
+
+    p {outline-color:rgb(125, 125, 105);}
+            p.outset {outline-style: outset;}
+
+    a:link, a:visited {
+        background-color: rgb(71, 122, 143);
+        color: black;
+        border: #b7b9a0;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+      }
+      a:hover, a:active {
+        background-color: rgb(118, 83, 29);
+        color: white;}
+    
+    a {font-family: monospace;
+        font-size: 20px;
+        padding: 10px;
+        width: 180px;
+        margin-left: 220px;}
+
+</style>
+<body>
+    <h1>Museum Tsunami Aceh: Mengenang Tragedi 26 Desember 2004</h1>
+    <br>
+    <img src="images/museum.jpg">
+    <br>
+    <br>
+    <h2>Museum Tsunami Aceh</h2>
+    <br>
+    <br>
+        <div>Museum Tsunami Aceh (Aksara Jawoë: موسيوم سونامي اچيه) merupakan salah satu museum terpopuler di Indonesia yang merupakan sebuah museum di Banda Aceh yang dirancang sebagai monumen simbolis untuk bencana gempa bumi dan tsunami Samudra Hindia 2004 sekaligus pusat pendidikan bencana dan tempat perlindungan darurat andai tsunami terjadi lagi.  <br><br>
+            
+        Bangunan ini memperingati para korban, yang namanya dicantumkan di dinding salah satu ruang terdalam museum, dan warga masyarakat yang selamat dari bencana ini. Selain perannya sebagai tugu peringatan bagi korban tewas, museum ini juga berguna sebagai tempat perlindungan dari bencana semacam ini pada masa depan, termasuk "bukit pengungsian" bagi pengunjung jika tsunami terjadi lagi.</div>
+    <br>
+
+    <h2>PROFIL MUSEUM TSUNAMI ACEH</h2>
+
+    <h3><b>Visi</b></h3>
+    <p>Menjadikan museum sebagai pusat riset, edukasi, evakuasi dan rekreasi kebencanaan tsunami di Asia Tenggara.
+    </p>
+
+    <h3><b>Misi</b></h3>
+    <p>Menjalankan aktivitas world class standard dalam hal riset, edukasi, evakuasi dan rekreasi kebencanaan tsunami.
+    </p>
+
+    <h2>SEJARAH AWAL MUSEUM TSUNAMI ACEH</h2>
+    <br>
+    <p> Pada tanggal 26 Desember pukul 07.58 WIB, terjadi sebuah gempa dahsyat yang melanda Aceh. Gempa berkekuatan 9.1-9.3 skala richter ini menyebabkan serangkaian tsunami dahsyat di sepanjang daratan yang berbatasan langsung dengan Samudra Hindia. Aceh merupakan daerah yang terkena dampak paling parah selain Sri Lanka, Thailand, dan India.</p>
+    <br>
+    <p> Banyak korban jiwa dalam bencana ini, bahkan sampai menyentuh 170.000 jiwa. Oleh karena itu, Museum Tsunami Aceh dibuat untuk mengenang korban dari tsunami Aceh tersebut, sekaligus tempat edukasi dan pusat evakuasi ketika bencana. 
+    Museum ini berdiri pada tahun 2008 bulan Februari. Perancang Museum ini adalah Ridwan Kamil yang saat ini menjabat sebagai Gubernur Jawa Barat. Beliau membuat desain yang memenangkan sayembara tingkat internasional pada tahun 2007 dalam rangka memperingati peristiwa tsunami tahun 2004. </p>
+    
+    <h3><b>Aritektur dan Konsep Bangunan</b></h3>
+    <p>Arsitek Museum Tsunami Aceh adalah Ridwan Kamil. Ridwan Kamil adalah seorang dosen arsitek Institut Teknologi Bandung (ITB) yang sekarang menjabat sebagai Gubernur Jawa Barat. Ia memenangkan sayembara  yang diadakan oleh Badan Rehabilitasi dan Rekonstruksi NAD dan Ikatan Arsitek Indonesia. Sayembara tersebut merupakan ajang tingkat internasional.</p>
+
+    <p>Konsep yang dirancang oleh arsitek Museum Tsunami Aceh ini sangat mengagumkan. Desain yang diterapkan memadukan rumah tradisional Aceh dan bencana alam yang terjadi. Terlihat juga bangunan ini memiliki dua perspektif. Dilihat dari bagian atas, bangunan ini tampak seperti gelombang tsunami. Namun jika dilihat dari tampak depan, bangunan ini seperti kapal besar dengan geladak yang luas. Atap bangunan dibuat terbuka yang bisa digunakan sebagai tempat evakuasi jika sewaktu-waktu terjadi bencana serupa. Jadi, selain untuk wisata, museum ini juga digunakan sebagai titik evakuasi dari bencana alam.</p>
+
+    <p>Bangunan ini terdiri pada 4 ruangan. Lantai 1 adalah ruang terbuka, mirip dengan rumah Aceh. selain digunakan sebagai ruangan terbuka untuk publik, jika terjadi tsunami kembali laju air tidak lagi terhalang oleh bangunan sehingga bangunan dapat kokoh dan cocok untuk tempat evakuasi.
+
+    Memasuki museum, terdapat ruangan yang disebut sebagai ruang renungan. Ruang renungan berupa lorong sempit dengan penerangan yang remang. Di sisi dinding lorong terdapat air mengalir di sisi kanan dan kiri, suara air itu diibaratkan sebagai suara gemuruh tsunami. Kemudian ada ruangan kaca yang disebut “Memorial Hill”. Ruangan ini dilengkapi dengan monitor yang menayangkan foto-foto kondisi Aceh yang hancur setelah tsunami berakhir.</p>
+
+    <p>Setelah lorong, ruangan berikutnya adalah ruangan berbentuk sumur silinder yang menyorotkan cahaya ke atas dengan tulisan lafadz Allah di atasnya. Ruangan yang disebut sebagai “The Light of God” ini berisi nama-nama korban yang meninggal dunia pada bencana tsunami. Selanjutnya ada ruang yang disebut Jembatan Harapan, jalannya memutar yang diibaratkan sebagai perjuangan warga Aceh untuk selamat dari bencana tsunami. Di ruangan ini juga terdapat 25 bendera negara yang telah membantu memulihkan Aceh pasca tsunami.</p>
+
+
+
+    <br>
+    <br>
+    <h2>SUSUNAN ORGANISASI</h2>
+    <br>
+    <p>Daftar pejabat Museum Tsunami Aceh saat ini:</p>
+    <table id="Daftar">
+        <tr>
+            <th>Nama</th>
+            <th>Jabatan</th>
+        </tr>
+        <tr>
+            <td>M. Syahputra Azwar, S.STP., M.Ec.Dev</td>
+            <td>Kepala UPTD Museum Tsunami Aceh</td>
+        </tr>
+        <tr>
+            <td>Purnama Hadi AR, S.IP, M.Si</td>
+            <td>Kepala Seksi Koleksi dan Konservasi UPTD Museum Tsunami Aceh</td>
+        </tr>
+        <tr>
+            <td>Abdul Lathief, S.STP, M.S.M.</td>
+            <td>Kepala Seksi Edukasi dan Preparasi UPTD Museum Tsunami Aceh</tr>
+        </tr>
+        <tr>
+            <td>Mimi Oktriyeni, SE</td>
+            <td>Kepala Subbag Tata Usaha UPTD Museum Tsunami Aceh</td>
+        </tr>
+    </table>
+    <br>
+    <br>
+    <h2>FASILITAS (SARANA DAN PRASARANA)</h2>
+    <br>
+    <br>
+    <h3><b>Fasilitas</b></h3>
+    <p class="outset">Ruang pameran tetap</p>
+    <p class="outset">Ruang pameran sementara</p>
+    <p class="outset">Rooftop</p>
+    <p class="outset">Taman</p>
+    <p class="outset">Ruang audio visual</p>
+    <p class="outset">Ruang parkir</p>
+    <p class="outset">Ruang galeri</p>
+    <p class="outset">Ruang merokok</p>
+    <p class="outset">Mushala</p>
+    <p class="outset">Mini restoran/cafe</p>
+    <p class="outset">Toko cinderamata</p>
+    <p class="outset">Toilet umum dan toilet VIP</p>
+    <p class="outset">ATM</p>
+    <p class="outset">Lift</p>
+    <br>
+    <br>
+    <h3><b>Lantai 1</b></h3>
+    <ul class="Lantai 1">
+        <li>Barang barang koleksi bekas tsunami seperti Helikopter, Kepala Bus, Truk PMI, kolam ikan, spot foto</li>
+        <li>Lorong Tsunami</li>
+        <li>Memori Hall</li>
+        <li>Sumur doa</li>
+        <li>Lorong kebingunngan</li>
+        <li>Jembatan perdamaian</li>
+    </ul>
+    <br>
+    <h3><b>Lantai 2</b></h3>
+        <ul class="Lantai 2">
+        <li>Barang barang koleksi bekas tsunami seperti Helikopter, Kepala Bus, Truk PMI, kolam ikan, spot foto</li>
+        <li>Japan Corner</li>
+        <li>Miniature Museum Tsunam</li>
+        <li>Ruang Audio Visua</li>
+        <li>Pameran Temporer Animal Insting</li>
+        <li>Memori pasca Tsunami</li>
+        <li>Miniatur Rumah Aceh</li>
+        <li>Visual ragam kebudayaan Aceh, kemudian masuk ke gelombang visual tsunami, puing-puing pasca tsunami seperti motor, jam, masjid, mobil, sepeda dan miniature kapal apung</li>
+        <li>Visual negara negara yang membantu dan turun tangan saat tsunami 2004</li>
+        <li>Gallery keadaan pasca tsunami</li>
+        <li>Ruang rapat</li>
+        <li>Ruang menyusui</li>
+    </ul>
+    <br>
+    <h3><b>Lantai 3</b></h3>
+        <ul class="Lantai 3">
+        <li>Barang barang koleksi bekas tsunami seperti Helikopter, Kepala Bus, Truk PMI, kolam ikan, spot foto</li>
+        <li>Pameran Temporer</li>
+        <li>Jendela Masa lalu yang berupa replika Gua Ek Leuntie</li>
+        <li>Ruang Perdamaian MoU Helsinki</li>
+        <li>Ruang seminar Smong Box</li>
+        <li>Ruang Perpustakaan</li>
+        <li>Tempat wudhu dan mushalla</li>
+        <li>Galery foto pasca tsunami</li>
+        <li>Kantor Administrasi</li>
+        <li>Toilet</li>
+    </ul>
+    <br>
+    <h3><b>Lantai 4</b></h3>
+        <ul class="Lantai 4">
+        <li>Café rooftop</li>
+        <li>Tempat evakuasi</li>
+    </ul>
+
+    <h2>INFORMATION</h2>
+    <br>
+    <h3><b>HTM</b></h3>
+    <ul class="HTM">
+        <li>Anak-anak/Pelajar Rp3.000,- </li>
+        <li>Mahasiswa/Dewasa Rp5.000,- </li>
+        <li>Asing/WNA Rp15.000,- </li>
+    </ul>
+        <p><b>Jl. Sultan Iskandar Muda, Sukaramai, Kec. Baiturrahman, Kota Banda Aceh, Aceh 23116</b></p>
+        <p><i class="fa-solid fa-map-location-dot"></i> Museum Tsunami Aceh</p>
+        <p><i class="fa-solid fa-tty"></i> (0651) 40774</p>
+        <p><i class="fa-regular fa-envelope"></i> info@anri.go.id</p>
+    <a href="https://museumtsunami.acehprov.go.id/" target="_blank">Website Museum Tsunami Aceh</a>
+</div>
+
+</body>
+</html>
